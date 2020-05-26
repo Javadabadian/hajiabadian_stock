@@ -4,8 +4,6 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-import connection.BankAccount;
-
 public class Bank
 {
 	private List<BankAccount> accounts;

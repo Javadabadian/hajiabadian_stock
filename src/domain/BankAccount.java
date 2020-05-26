@@ -1,4 +1,4 @@
-package connection;
+package domain;
 
 
 import java.time.LocalDateTime;
